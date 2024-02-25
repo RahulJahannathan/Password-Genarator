@@ -11,7 +11,7 @@ This is a simple password generator graphical user interface (GUI) built using P
 ## Installation and Usage
   - Clone or download the repository to your local machine.
   - Navigate to the directory containing the files.
-  - Run the Password generator.py file using Python:
+  - Run the Password generator.py file using Python.
    The GUI window will appear, allowing you to specify the desired length of the password and click the "Generate" button to 
    generate a random password. Clicking the "Copy" button will copy the generated password to the clipboard.
 ## Customization
